@@ -156,6 +156,7 @@ refreshBtn.addEventListener("click", function() {
   moves = 0;
   /*resets timer*/
   pena = false;
+    time = 0;
   timerDis.innerHTML = 0;
 
   movesList.innerHTML = moves;
